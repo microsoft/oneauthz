@@ -1,14 +1,5 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
----
 
-# Official Microsoft Sample
+# OneAuthZ Authorization Samples
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
@@ -18,7 +9,11 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-Give a short description for your sample here. What does it do and why is it important?
+UserSync application uses full .NET framework and provides an example of calling MS Graph.
+UserSyncCore application uses .netcore and provides an example of calling MS Graph.
+AzFunction is an example of using OneAuthZ with azure functions built on .netcore 2.x.
+EnterpriseSecurityDemo is a more sophisticated example thsat demonstrates the use of attributes and conditions for authorization purposes.
+
 
 ## Contents
 
