@@ -1,0 +1,6 @@
+FROM microsoft/aspnetcore:2.0.5
+WORKDIR /app
+COPY ./bin/Release/PublishOutput .
+Run pwd
+Run ls -l
+ENTRYPOINT ["dotnet", "ITAuthorizeDemoExpensePortal.dll"]

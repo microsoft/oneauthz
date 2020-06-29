@@ -1,0 +1,18 @@
+{
+  "Devices": "Cihazlar",
+  "_t": "20 Ağu 2018 Pzt 13:26:37 GMT-07:00 (Pasifik Saati)",
+  "No devices to display.": "Görüntülenecek cihaz yok.",
+  "Services": "Hizmetler",
+  "Privacy": "Gizlilik",
+  "No services connected.": "Bağlı hizmet yok.",
+  "Review Terms of Use": "Kullanım Koşulları'nı gözden geçirin",
+  "Terms of Use": "Kullanım Koşulları",
+  "Please click the link below to review your terms of use": "Lütfen kullanım koşullarınızı gözden geçirmek için aşağıdaki bağlantıya tıklayın",
+  "Please click the link below to review your terms of use.": "Lütfen kullanım koşullarınızı gözden geçirmek için aşağıdaki bağlantıya tıklayın.",
+  "Disable device": "Cihazı devre dışı bırak",
+  "View Bitlocker Keys": "Bitlocker Anahtarlarını Görüntüle",
+  "Activity": "Etkinlik",
+  "Join Type": "Katılım Türü",
+  "Service ID": "Hizmet Kimliği",
+  "Revoke permissions": "İzinleri iptal et"
+}

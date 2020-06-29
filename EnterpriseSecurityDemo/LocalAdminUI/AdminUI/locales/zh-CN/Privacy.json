@@ -1,0 +1,18 @@
+{
+  "Devices": "设备",
+  "_t": "2018 年 8 月 20 日(周一) 13:26:37 GMT-0700 (太平洋夏令时)",
+  "No devices to display.": "没有要显示的设备。",
+  "Services": "服务",
+  "Privacy": "隐私",
+  "No services connected.": "未连接任何服务。",
+  "Review Terms of Use": "查看使用条款",
+  "Terms of Use": "使用条款",
+  "Please click the link below to review your terms of use": "请单击下面的链接，查看使用条款",
+  "Please click the link below to review your terms of use.": "请单击下面的链接，查看使用条款。",
+  "Disable device": "禁用设备",
+  "View Bitlocker Keys": "查看 Bitlocker 密钥",
+  "Activity": "活动",
+  "Join Type": "联接类型",
+  "Service ID": "服务 ID",
+  "Revoke permissions": "撤销权限"
+}

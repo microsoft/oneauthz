@@ -1,0 +1,33 @@
+﻿<div class="container" style="margin-top: 20px;" ng-controller="createController">
+    <div style="position: relative">
+        <h6 ng-if="isImpersonating" class="custom-impersonation-label">Run as {{currentUser}}</h6>
+        <h3>Submit an expense</h3>
+        <br />
+        <form>
+            <div class="form-group">
+                <label>Expense Name</label>
+                <input type="text" class="form-control" id="petname" placeholder="Enter Expense Name" ng-model="expense.name">
+            </div>
+            <div class="form-group">
+                <label for="value">Amount</label>
+                <input type="text" class="form-control" id="value" placeholder="Enter Amount" ng-model="expense.amount">
+            </div>
+
+            <div class="form-group">
+                <label for="org">Organization</label>
+                <select class="form-control" id="org" ng-model="expense.org">
+                    <option ng-repeat="org in orgValueList">{{org}}</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="petspecies">Expense Category</label>
+                <select class="form-control" id="petspecies" ng-model="expense.category">
+                    <option ng-repeat="scope in scopeValueList">{{scope}}</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary" ng-click="submit()">Submit</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+{
+  "Devices": "デバイス",
+  "_t": "2018 年 8 月 20 日月曜日 13 時 26 分 37 秒 GMT-0700 (太平洋夏時間)",
+  "No devices to display.": "表示するデバイスはありません。",
+  "Services": "サービス",
+  "Privacy": "プライバシー",
+  "No services connected.": "接続されているサービスはありません。",
+  "Review Terms of Use": "利用規約の確認",
+  "Terms of Use": "利用規約",
+  "Please click the link below to review your terms of use": "次のリンクをクリックして、利用規約をご確認ください",
+  "Please click the link below to review your terms of use.": "次のリンクをクリックして、利用規約をご確認ください。",
+  "Disable device": "デバイスの無効化",
+  "View Bitlocker Keys": "Bitlocker キーの表示",
+  "Activity": "アクティビティ",
+  "Join Type": "結合の種類",
+  "Service ID": "サービス ID",
+  "Revoke permissions": "アクセス許可の取り消し"
+}

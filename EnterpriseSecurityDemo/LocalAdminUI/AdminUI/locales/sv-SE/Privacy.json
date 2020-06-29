@@ -1,0 +1,18 @@
+{
+  "Devices": "Enheter",
+  "_t": "Mån 20 aug 2018 13:26:37 GMT-0700 (Pacific Daylight Time)",
+  "No devices to display.": "Det finns inga enheter att visa.",
+  "Services": "Tjänster",
+  "Privacy": "Sekretess",
+  "No services connected.": "Inga tjänster är anslutna.",
+  "Review Terms of Use": "Granska användningsvillkor",
+  "Terms of Use": "Användningsvillkor",
+  "Please click the link below to review your terms of use": "Klicka på länken nedan om du vill granska dina användningsvillkor",
+  "Please click the link below to review your terms of use.": "Klicka på länken nedan om du vill granska dina användningsvillkor.",
+  "Disable device": "Inaktivera enheten",
+  "View Bitlocker Keys": "Visa Bitlocker-nycklar",
+  "Activity": "Aktivitet",
+  "Join Type": "Anslutningstyp",
+  "Service ID": "Tjänst-ID",
+  "Revoke permissions": "Återkalla behörigheter"
+}

@@ -1,0 +1,18 @@
+{
+  "Devices": "Устройства",
+  "_t": "Понедельник 20 августа 2018 г. 13:26:37 GMT-0700 (Тихоокеанское время США, лето)",
+  "No devices to display.": "Нет устройств для отображения.",
+  "Services": "Службы",
+  "Privacy": "Конфиденциальность",
+  "No services connected.": "Службы не подключены.",
+  "Review Terms of Use": "Просмотреть условия использования",
+  "Terms of Use": "Условия использования",
+  "Please click the link below to review your terms of use": "Щелкните ссылку ниже, чтобы просмотреть условия использования.",
+  "Please click the link below to review your terms of use.": "Щелкните ссылку ниже, чтобы просмотреть условия использования.",
+  "Disable device": "Отключение устройства",
+  "View Bitlocker Keys": "Просмотреть ключи Bitlocker",
+  "Activity": "Действие",
+  "Join Type": "Тип соединения",
+  "Service ID": "Идентификатор службы",
+  "Revoke permissions": "Отзыв разрешений"
+}

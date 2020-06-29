@@ -1,0 +1,18 @@
+{
+  "Devices": "Eszközök",
+  "_t": "2018. aug. 20. H 13:26:37 GMT-0700 (csendes-óceáni nyári idő)",
+  "No devices to display.": "Nincsenek megjeleníthető eszközök.",
+  "Services": "Szolgáltatások",
+  "Privacy": "Adatvédelem",
+  "No services connected.": "Nincsenek csatlakoztatva szolgáltatások.",
+  "Review Terms of Use": "Használati feltételek megtekintése",
+  "Terms of Use": "használati feltételeit",
+  "Please click the link below to review your terms of use": "A használati feltételek megtekintéséhez kattintson az alábbi hivatkozásra",
+  "Please click the link below to review your terms of use.": "A használati feltételek megtekintéséhez kattintson az alábbi hivatkozásra.",
+  "Disable device": "Eszköz letiltása",
+  "View Bitlocker Keys": "Bitlocker-kulcsok megtekintése",
+  "Activity": "Tevékenység",
+  "Join Type": "Csatlakozás típusa",
+  "Service ID": "Szolgáltatásazonosító",
+  "Revoke permissions": "Engedélyek visszavonása"
+}

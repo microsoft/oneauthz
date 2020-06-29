@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>fc296d22-10d9-447c-a0f4-28a5077363dd</UserSecretsId>
+    <RootNamespace>ExpenseDemo</RootNamespace>
+    <Configurations>Debug;Release;DebugLocalPackage</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)' == 'DebugLocalPackage'">
+    <RestoreSources>$(RestoreSources);../NugetPackages;https://api.nuget.org/v3/index.json</RestoreSources>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Enterprise.Authorization.Client" Version="5.7.20190509.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.4" />
+    <PackageReference Include="System.Net.Security" Version="4.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\audit.css" />
+    <None Include="wwwroot\Content\bootstrap.css" />
+    <None Include="wwwroot\Content\bootstrap.css.map" />
+    <None Include="wwwroot\Content\bootstrap.min.css" />
+    <None Include="wwwroot\Content\bootstrap.min.css.map" />
+    <None Include="wwwroot\Content\home.png" />
+    <None Include="wwwroot\Content\pet.png" />
+    <None Include="wwwroot\Content\progressbarmask.gif" />
+    <None Include="wwwroot\Content\Site.css" />
+    <None Include="wwwroot\Content\ui-grid.css" />
+    <None Include="wwwroot\Content\ui-grid.eot" />
+    <None Include="wwwroot\Content\ui-grid.min.css" />
+    <None Include="wwwroot\Content\ui-grid.svg" />
+    <None Include="wwwroot\Content\ui-grid.ttf" />
+    <None Include="wwwroot\Content\ui-grid.woff" />
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\Scripts\adal-angular.js" />
+    <None Include="wwwroot\Scripts\adal.js" />
+    <None Include="wwwroot\Scripts\app\app.js" />
+    <None Include="wwwroot\Scripts\app\controllers\auditController.js" />
+    <None Include="wwwroot\Scripts\app\controllers\homeController.js" />
+    <None Include="wwwroot\Scripts\app\controllers\indexController.js" />
+    <None Include="wwwroot\Scripts\app\services\apiService.js" />
+    <None Include="wwwroot\Scripts\app\services\itemService.js" />
+    <None Include="wwwroot\Scripts\bootstrap-notify.js" />
+    <None Include="wwwroot\Scripts\bootstrap.js" />
+    <None Include="wwwroot\Scripts\bootstrap.min.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.intellisense.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.min.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.min.map" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.slim.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.slim.min.js" />
+    <None Include="wwwroot\Scripts\jquery-3.0.0.slim.min.map" />
+    <None Include="wwwroot\Scripts\ui-grid.js" />
+    <None Include="wwwroot\Scripts\ui-grid.min.js" />
+    <None Include="wwwroot\Scripts\_references.js" />
+    <None Include="wwwroot\Views\audit.html" />
+    <None Include="wwwroot\Views\home.html" />
+  </ItemGroup>
+
+</Project>

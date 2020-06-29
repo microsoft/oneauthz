@@ -1,0 +1,58 @@
+﻿[
+  {
+    "name": "EPS Expense 1",
+    "category": "Travel",
+    "owner": "dganguly",
+    "org": "CSEO/CPE/EPS"
+  },
+  {
+    "name": "EPS Expense 2",
+    "category": "Travel",
+    "owner": "davchen",
+    "org": "CSEO/CPE/EPS"
+  },
+  {
+    "name": "EPS Expense 3",
+    "category": "Morale",
+    "owner": "lmilard",
+    "org": "CSEO/CPE/EPS"
+  },
+  {
+    "name": "EPS Expense 4",
+    "category": "Morale",
+    "owner": "janezha",
+    "org": "CSEO/CPE/EPS"
+  },
+  {
+    "name": "BAP Expense 1",
+    "category": "Supply",
+    "owner": "scweisk",
+    "org": "CSEO/CPE/BAP"
+  },
+  {
+    "name": "BAP Expense 2",
+    "category": "Supply",
+    "owner": "iliyasch",
+    "org": "CSEO/CPE/BAP"
+  },
+  {
+    "name": "BAP Expense 3",
+    "category": "Travel",
+    "owner": "gopalab",
+    "org": "CSEO/CPE/BAP"
+  },
+
+  {
+    "name": "BAP Expense 4",
+    "category": "Supply",
+    "owner": "emhunt",
+    "org": "CSEO/CPE/BAP"
+  },
+  {
+    "name": "CPE Expense 1",
+    "category": "Vendor",
+    "owner": "ludovich",
+    "org": "CSEO/CPE"
+  }
+
+]

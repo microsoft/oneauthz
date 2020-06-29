@@ -1,0 +1,35 @@
+﻿.grid {
+    position: relative;
+    left: -10%;
+    height: calc(100vh - 350px);
+    width: 120%;
+}
+
+.green {
+    color: green;
+    background-color: lightgreen !important;
+}
+
+.red {
+    color: red;
+    background-color: lightpink !important;
+}
+
+.query {
+    height: 160px;
+    border: solid 2px #0275d7;
+}
+
+.btn-primary {
+    position: relative !important;
+    top: 60px;
+    left: 30px;
+    width: 120px;
+}
+
+.loading {
+    color: dodgerblue;
+    position:absolute;
+    top: 45%;
+    left: 45%;
+}

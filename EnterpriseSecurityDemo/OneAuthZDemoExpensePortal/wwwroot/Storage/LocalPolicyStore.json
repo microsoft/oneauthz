@@ -1,0 +1,52 @@
+{
+  "RoleDefinitions": [
+    {
+      "Id": "846bdb55-f265-9ab2-5b3b-88790a5dba5e",
+      "Name": "General User",
+      "Permissions": [
+        {
+          "Actions": [
+            "/Expense/Submit"
+          ],
+          "NotActions": [],
+          "DataActions": [],
+          "NotDataActions": [],
+          "Condition": ""
+        }
+      ],
+      "Scopes": [
+        "/ExpensePortal"
+      ]
+    },
+    {
+      "Id": "06211cfe-c005-e862-18cb-f01f072338b8",
+      "Name": "Approver",
+      "Permissions": [
+        {
+          "Actions": [
+            "/Expense/Approve",
+            "/Expense/Reject"
+          ],
+          "NotActions": [],
+          "DataActions": [],
+          "NotDataActions": [],
+          "Condition": ""
+        },
+        {
+          "Actions": [
+            "/Expense/Read"
+          ],
+          "NotActions": [],
+          "DataActions": [],
+          "NotDataActions": [],
+          "Condition": ""
+        }
+      ],
+      "Scopes": [
+        "/ExpensePortal"
+      ]
+    }
+  ],
+  "RoleAssignments": [
+  ]
+}

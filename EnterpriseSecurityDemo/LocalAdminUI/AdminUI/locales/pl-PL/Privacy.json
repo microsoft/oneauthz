@@ -1,0 +1,18 @@
+{
+  "Devices": "Urządzenia",
+  "_t": "Pon 20 sie 2018 13:26:37 GMT-0700 (Pacyfik — czas letni)",
+  "No devices to display.": "Brak urządzeń do wyświetlenia.",
+  "Services": "Usługi",
+  "Privacy": "Prywatność",
+  "No services connected.": "Brak połączonych usług.",
+  "Review Terms of Use": "Przejrzyj warunki użytkowania",
+  "Terms of Use": "Warunki użytkowania",
+  "Please click the link below to review your terms of use": "Kliknij poniższy link, aby przejrzeć warunki użytkowania",
+  "Please click the link below to review your terms of use.": "Kliknij poniższy link, aby przejrzeć warunki użytkowania.",
+  "Disable device": "Wyłączanie urządzenia",
+  "View Bitlocker Keys": "Wyświetl klucze funkcji BitLocker",
+  "Activity": "Aktywność",
+  "Join Type": "Typ przyłączenia",
+  "Service ID": "Identyfikator usługi",
+  "Revoke permissions": "Uprawnienia do wycofywania"
+}

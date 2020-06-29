@@ -1,0 +1,40 @@
+﻿<link href="/Content/audit.css" rel="stylesheet" />
+<div class="container" style="margin-top: 20px;" ng-controller="auditController">
+    <h6 ng-if="isImpersonating" class="custom-impersonation-label">Run as {{currentUser}}</h6>
+    <div class="blade" role="main">
+        <section class="content">
+            <div class="row row-box">
+                <div class="col-xs-12">
+                    <div class="box box-primary">
+                        <div class="box-body">
+                            <div class="row">
+                                <div class="col-md-1"></div>
+                                <div class="col-md-3">
+                                    <button type="button" class="btn btn-block btn-success" ng-click="papQuery()">PAP Query</button>
+                                </div>
+                                <div class="col-md-2"></div>
+                                <div class="col-md-3">
+                                    <button type="button" class="btn btn-block btn-info" ng-click="pdpQuery()">PDP Query</button>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <textarea type="text" class="form-control query" ng-model="queryString"></textarea>
+                                </div>
+                                <div class="col-md-offset-1 col-md-1">
+                                    <button type="button" class="btn btn-block btn-primary" ng-click="execquery()">Query</button>
+                                </div>
+                            </div>
+                            <br />
+                            <div id="grid" class="grid" ui-grid="gridOptions" ui-grid-auto-resize ui-grid-resize-columns ui-grid-move-columns ui-grid-edit ng-if="!isLoading"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div ng-if="isLoading" style="position:relative;top: 10vh">
+            <i class="fa fa-spinner fa-pulse fa-5x fa-fw loading"></i>
+        </div>
+    </div>
+</div>

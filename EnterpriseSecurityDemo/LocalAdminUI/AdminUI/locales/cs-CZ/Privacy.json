@@ -1,0 +1,18 @@
+{
+  "Devices": "Zařízení",
+  "_t": "Pondělí 20. srpna 2018 13:26:37 GMT-0700 (Tichomoří (letní čas))",
+  "No devices to display.": "Nejsou k dispozici žádná zařízení, která by se dala zobrazit.",
+  "Services": "Služby",
+  "Privacy": "Soukromí",
+  "No services connected.": "Nejsou připojené žádné služby.",
+  "Review Terms of Use": "Přečíst podmínky použití",
+  "Terms of Use": "Podmínkami použití",
+  "Please click the link below to review your terms of use": "Klikněte prosím na odkaz níže, abyste si mohli přečíst své podmínky použití.",
+  "Please click the link below to review your terms of use.": "Klikněte prosím na odkaz níže, abyste si mohli přečíst své podmínky použití.",
+  "Disable device": "Zakázání zařízení",
+  "View Bitlocker Keys": "Zobrazit klíče BitLockeru",
+  "Activity": "Aktivita",
+  "Join Type": "Typ připojení",
+  "Service ID": "ID služby",
+  "Revoke permissions": "Odvolat oprávnění"
+}

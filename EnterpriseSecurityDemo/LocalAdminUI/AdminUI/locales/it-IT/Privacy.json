@@ -1,0 +1,18 @@
+{
+  "Devices": "Dispositivi",
+  "_t": "Lun 20 ago 2018 13:26:37 GMT-0700 (Ora legale Pacifico)",
+  "No devices to display.": "Non sono presenti dispositivi da visualizzare.",
+  "Services": "Servizi",
+  "Privacy": "Privacy",
+  "No services connected.": "Non sono presenti servizi connessi.",
+  "Review Terms of Use": "Verificare le Condizioni per l'utilizzo",
+  "Terms of Use": "Condizioni per l'utilizzo",
+  "Please click the link below to review your terms of use": "Fare clic sul collegamento seguente per verificare le Condizioni per l'utilizzo",
+  "Please click the link below to review your terms of use.": "Fare clic sul collegamento seguente per verificare le Condizioni per l'utilizzo.",
+  "Disable device": "Disabilita dispositivo",
+  "View Bitlocker Keys": "Visualizza le chiavi di BitLocker",
+  "Activity": "Attività",
+  "Join Type": "Tipo di aggiunta",
+  "Service ID": "ID servizio",
+  "Revoke permissions": "Revoca autorizzazioni"
+}

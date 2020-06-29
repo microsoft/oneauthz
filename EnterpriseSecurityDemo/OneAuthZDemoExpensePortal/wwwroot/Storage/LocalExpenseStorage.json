@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5ea447da-9245-4b47-8394-3a2241989a99",
+    "name": "Prasanth's lobster dinner",
+    "org": "CSEO/CPE/EPS",
+    "category": "Travel",
+    "owner": "prtante",
+    "amount": 70
+  },
+  {
+    "id": "fd96471d-4542-4fad-9a0a-ce3a025d0516",
+    "name": "Lizhang's parking",
+    "org": "CSEO/CPE/EPS",
+    "category": "Morale",
+    "owner": "lizsun",
+    "amount": 10
+  },
+  {
+    "id": "d533d091-3314-41fc-986d-a4783f411e66",
+    "name": "Nikhila's laptop charger",
+    "org": "CSEO/CPE/EPS",
+    "category": "Supply",
+    "owner": "v-nigund",
+    "amount": 20
+  }
+]

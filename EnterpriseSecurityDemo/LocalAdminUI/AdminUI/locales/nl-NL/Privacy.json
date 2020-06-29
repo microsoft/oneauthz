@@ -1,0 +1,18 @@
+{
+  "Devices": "Apparaten",
+  "_t": "Maandag 20 augustus 2018 13:26:37 GMT-0700 (Pacific (zomertijd))",
+  "No devices to display.": "Geen apparaten om weer te geven.",
+  "Services": "Services",
+  "Privacy": "Privacy",
+  "No services connected.": "Er zijn geen services verbonden.",
+  "Review Terms of Use": "Gebruiksrechtovereenkomst controleren",
+  "Terms of Use": "Gebruiksvoorwaarden",
+  "Please click the link below to review your terms of use": "Klik op de volgende koppeling om uw gebruiksrechtovereenkomst te controleren",
+  "Please click the link below to review your terms of use.": "Klik op de volgende koppeling om uw gebruiksrechtovereenkomst te controleren.",
+  "Disable device": "Apparaat uitschakelen",
+  "View Bitlocker Keys": "BitLocker-sleutels weergeven",
+  "Activity": "Activiteit",
+  "Join Type": "Jointype",
+  "Service ID": "Service-id",
+  "Revoke permissions": "Machtigingen intrekken"
+}

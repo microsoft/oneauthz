@@ -1,0 +1,36 @@
+﻿.navbar-inverse .navbar-nav > .disabled > a {
+    color: #9D9D9D
+}
+
+.navbar-dark .navbar-nav .nav-link.menuitem {
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link.menuitem.disabled {
+    font-weight: normal;
+}
+
+
+.custom-progress {
+    height: 5px;
+    width: 100%;
+}
+
+.custom-pbaranim {
+    height: 5px;
+    background: url('progressbarmask.gif') repeat-x;
+    opacity: 0.25
+}
+
+.custom-img-border {
+   padding: 2px;
+   border: 2px solid #021a40;
+   background-color:#fff;
+}
+
+.custom-impersonation-label {
+    position: absolute;
+    right: 0%;
+    margin-top: 17px;
+}
+
